@@ -2,6 +2,6 @@ Running the Application
 
 1. Run the project using: android studio ide
 
-2. download a emulator in android studio 
+2. Download a emulator in android studio 
 
 3. Open emulator and run the program
