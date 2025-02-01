@@ -1,4 +1,7 @@
-Running the Application
-Run the project using: android studio ide
-download a emulator in android studio 
-open emulator and run the program
+Running the Application	
+
+1. Run the project using: android studio ide
+
+2. download a emulator in android studio 
+
+3. Open emulator and run the program
